@@ -1,3 +1,4 @@
 flask
-mido
-python-rtmidi
+flask_cors
+numpy
+tqdm
